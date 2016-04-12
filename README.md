@@ -1,20 +1,9 @@
-#Lightning Browser [![Build Status](https://travis-ci.org/anthonycr/Lightning-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Lightning-Browser)
+#[Lightning Browser](https://github.com/anthonycr/Lightning-Browser) 
+
 ####Speed, Simplicity, Security
 #![](ic_launcher_small.png)
 ####Download
-* [Download APK from here](https://github.com/anthonycr/Lightning-Browser/releases)
-
-* [Download from F-Droid](https://f-droid.org/repository/browse/?fdfilter=lightning&fdid=acr.browser.lightning)
-
-* [Download Free from Google Play](https://play.google.com/store/apps/details?id=acr.browser.barebones)
-
-* [Download Paid from Google Play](https://play.google.com/store/apps/details?id=acr.browser.lightning)
-
-####Master Branch
-* [![Build Status](https://travis-ci.org/anthonycr/Lightning-Browser.svg?branch=master)](https://travis-ci.org/anthonycr/Lightning-Browser)
-
-####Dev Branch
-* [![Build Status](https://travis-ci.org/anthonycr/Lightning-Browser.svg?branch=dev)](https://travis-ci.org/anthonycr/Lightning-Browser)
+Included with FIUI ROM [on XDA](http://forum.xda-developers.com/moto-g/development/rom-fiui-moto-g-t3053999)
 
 ####Features
 * Bookmarks
@@ -83,4 +72,5 @@ This means that you MUST provide attribution in your application to Lightning Br
 
 If you have any questions regarding the open-source license, please contact me at [anthonyrestaino11@gmail.com](mailto:anthonyrestaino11@gmail.com)
 
+####Icons
 App icon from [Icon Archive](http://www.iconarchive.com/show/android-lollipop-icons-by-dtafalonso.html)
